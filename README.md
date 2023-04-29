@@ -1,5 +1,4 @@
-
-YAZILIM YAPIMI ÖDEVİ
+Yazılım Yapımı Ödevi
 
 Oyun Amacı : Rastgele verilen sayıları düzgün  şekilde sıraya koymak.
 
