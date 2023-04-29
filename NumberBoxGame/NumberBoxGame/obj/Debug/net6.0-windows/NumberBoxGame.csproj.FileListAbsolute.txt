@@ -1,0 +1,17 @@
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\bin\Debug\net6.0-windows\NumberBoxGame.exe
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\bin\Debug\net6.0-windows\NumberBoxGame.deps.json
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\bin\Debug\net6.0-windows\NumberBoxGame.runtimeconfig.json
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\bin\Debug\net6.0-windows\NumberBoxGame.dll
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\bin\Debug\net6.0-windows\NumberBoxGame.pdb
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.csproj.AssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.Form1.resources
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.AssemblyInfoInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.AssemblyInfo.cs
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.csproj.CoreCompileInputs.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.dll
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\refint\NumberBoxGame.dll
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.pdb
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\NumberBoxGame.genruntimeconfig.cache
+C:\Users\semih\OneDrive\Masaüstü\çalışmalar\NumberBoxGame\NumberBoxGame\obj\Debug\net6.0-windows\ref\NumberBoxGame.dll
