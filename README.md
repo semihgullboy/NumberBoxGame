@@ -12,4 +12,4 @@ Oyunun Bitiş Ekranı :
 
 # Oyunun Amacı :
 
-Rastgele olarak dağıtılmış olan sayıları düzenli bir sıra haline getirmek.
+Rastgele olarak dağıtılmış olan sayıları düzenli bir hale getirmeye çalışmak.
