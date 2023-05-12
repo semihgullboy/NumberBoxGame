@@ -2,6 +2,7 @@
 
 Yazılım Yapımı Ödevi
 
+
 Oyunun Arayüzü: 
 
 ![NumberBoxGamearayüz](https://user-images.githubusercontent.com/114232816/235324607-b2bcb457-5779-4654-adef-eafaf0721a0f.png)
